@@ -8,4 +8,6 @@ The compiled .exe file needs to be placed in the same folder as the game executa
 
 Your virus scanner might complain when running this application as it is hooking onto an already running process. So be aware.
 
+An UI is planned for the future, but not ready yet.
+
 To be continued.
